@@ -12,3 +12,4 @@ My goals for Data Analytics are:
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/81aabab1-44f1-4563-8bec-fe2f0f36af3d" />
 
+I am a newbie when it comes to data analytics, programming and coding. Everything that I learn is always going be my first time. This picture really depicts me because I am always excited when my program works the first time. I am truly excited about this data analytics 12 week course I am enrolled in because I truly believe that it will give me the foundation that is required in order to go to any position or role in the cyber security field.
