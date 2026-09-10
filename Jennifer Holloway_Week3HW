@@ -1,0 +1,9 @@
+**A finite sequence of well-defined, unambiguous instructions designed to perform a specific task or solve a particular problem.**
+*#, %*
+**An error in the program's logic that causes it to produce incorrect or unexpected result, even though the code is syntactically valid.**
+*Understand the problem thoroughly.*
+-if
+-else
+-for
+-while
+-def
